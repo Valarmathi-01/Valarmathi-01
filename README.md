@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on To-DO tracker <br>👯 I’m looking to
 collaborate on fullstack related project<br>🌱 I’m currently learning
-wordpress<br>
+React<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/valarmathi-b-b1417a31b/)

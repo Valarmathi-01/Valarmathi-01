@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on To-DO tracker <br>👯 I’m looking to
+🔭 I’m currently working on job-portal-platform application<br>👯 I’m looking to
 collaborate on fullstack related project<br>🌱 I’m currently learning
 React<br>
 
